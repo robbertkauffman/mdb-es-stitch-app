@@ -12,7 +12,7 @@ documents. This ensures that Elasticsearch remains in sync even in the event of 
 
 Import & configuration
 ----------------------
-Clone or download this project and use (https://docs.mongodb.com/stitch/import-export/stitch-cli-reference/)[Stich CLI]
+Clone or download this project and use [Stich CLI](https://docs.mongodb.com/stitch/import-export/stitch-cli-reference/)
 to import it:
 ```bash
 $ stitch-cli login --username=cloud.username --api-key=my-api-key

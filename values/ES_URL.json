@@ -1,0 +1,6 @@
+{
+    "id": "5c195f7e35625e2edee7fe49",
+    "name": "ES_URL",
+    "value": "https://{domainname}.{tld}:{port}/{index}/{type}",
+    "private": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": "5c1923aa35625e2edee373a8",
+    "name": "mongodb-atlas",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Sandbox",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}

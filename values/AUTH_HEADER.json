@@ -1,0 +1,6 @@
+{
+    "id": "5c1aa16b4ffdc2edada5416f",
+    "name": "AUTH_HEADER",
+    "value": "base64 string of 'username:password': echo -n 'USERNAME:PASSWORD' | openssl base64",
+    "private": false
+}

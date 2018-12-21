@@ -1,0 +1,21 @@
+{
+    "id": "5c19270c35625e2edee3af28",
+    "name": "update",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "INSERT",
+            "UPDATE",
+            "DELETE",
+            "REPLACE"
+        ],
+        "database": "es-test",
+        "collection": "test",
+        "service_name": "mongodb-atlas",
+        "match": {},
+        "full_document": true,
+        "unordered": true
+    },
+    "function_name": "indexDocument",
+    "disabled": false
+}
